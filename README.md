@@ -1,7 +1,5 @@
 
 
----
-
 ## **README.md**
 
 # 🛡️ Script de Instalación de Herramientas de Seguridad para Ubuntu  
