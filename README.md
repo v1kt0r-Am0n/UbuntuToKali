@@ -1,4 +1,4 @@
-Aquí tienes un ejemplo de archivo **README.md** que describe el uso del script de instalación de herramientas de seguridad para Ubuntu.
+
 
 ---
 
